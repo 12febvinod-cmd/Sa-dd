@@ -1,0 +1,8 @@
+{
+  "name": "ShopAtDoor",
+  "description": "Premium clothing store in Bhadohi, Uttar Pradesh offering stylish everyday, traditional, and festive collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
